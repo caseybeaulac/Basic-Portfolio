@@ -61,9 +61,19 @@ li {
 /*------------------header end------------------------*/
 
 /*main content div*/
-#mainDiv {
+#mainDivA {
   background-image: url(../images/floor-tile.png);
-  height: 850px;
+  height: 600px;
+}
+
+#mainDivP {
+  background-image: url(../images/floor-tile.png);
+  height: 940px;
+}
+
+#mainDivC {
+  background-image: url(../images/floor-tile.png);
+  height: 620px;
 }
 
 /*ABOUT-CONTACT-PORTFOLIO BOX*/
